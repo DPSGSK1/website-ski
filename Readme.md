@@ -1,5 +1,4 @@
-#Website for my Scout Group   
-#"Stamm Kohlscheid I"
+#Website for my Scout Group </br>"Stamm Kohlscheid I"
 
 #Acknowledgements
 Inital design by [@mdo](https://twitter.com/mdo)  
