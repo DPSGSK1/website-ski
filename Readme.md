@@ -1,7 +1,8 @@
-#Website for my Scout Group "Stamm Kohlscheid I"
+#Website for my Scout Group   
+#"Stamm Kohlscheid I"
 
 #Acknowledgements
-Inital design by [@mdo](https://twitter.com/mdo)
+Inital design by [@mdo](https://twitter.com/mdo)  
 Glyphs by [Glyphicons](https://glyphicons.com)
 
 #License
